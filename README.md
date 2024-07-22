@@ -14,3 +14,8 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-2-01] [Gradient descent and Momentum optimizer](https://youtu.be/-Mvj6uMZ71k)
 * [MXDL-2-02] [NAG, Adagrad, and RMSprop optimizers](https://youtu.be/4A_ofLpR5eo)
 * [MXDL-2-03] [Adadelta and Adam optimizers](https://youtu.be/_ZQCt8Allv8)
+
+### 3. Backpropagation
+* [MXDL-3-01] [Error Backpropagation along single path](https://youtu.be/lOgUCawMrZs)
+* [MXDL-3-02] [Error Backpropagation along multiple paths](https://youtu.be/qHpnSGWVumE)
+* [MXDL-3-03] [Automatic Differentiation](https://youtu.be/-8-JGqitc-c)
