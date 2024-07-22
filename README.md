@@ -19,3 +19,7 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-3-01] [Error Backpropagation along single path](https://youtu.be/lOgUCawMrZs)
 * [MXDL-3-02] [Error Backpropagation along multiple paths](https://youtu.be/qHpnSGWVumE)
 * [MXDL-3-03] [Automatic Differentiation](https://youtu.be/-8-JGqitc-c)
+
+### 4. Tensorflow and Keras
+* [MXDL-4-01] [Build neural networks with TensorFlow](https://youtu.be/1lc2A4jJSDE)
+* [MXDL-4-02] [Build neural networks with Keras](https://youtu.be/oemrJonU-tE)
