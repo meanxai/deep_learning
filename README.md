@@ -23,3 +23,22 @@ These codes are used in the deep learning online course provided by www.youtube.
 ### 4. Tensorflow and Keras
 * [MXDL-4-01] [Build neural networks with TensorFlow](https://youtu.be/1lc2A4jJSDE)
 * [MXDL-4-02] [Build neural networks with Keras](https://youtu.be/oemrJonU-tE)
+
+### 5. Regularization
+* [MXDL-5-01] [Weights and Biases Regularization](https://youtu.be/WhN0ppyFLq0)
+* [MXDL-5-02] [Activity (or Activation) Regularization](https://youtu.be/nhLFkUbpFfA)
+
+### 6. Dropout
+* [MXDL-6-01] [Zero-out step in dropout](https://youtu.be/Bu_XEPhLOBE)
+* [MXDL-6-02] [Scale-down and Scale-up](https://youtu.be/OrxJmX4WHTA)
+
+### 7. Batch Normalization
+* [MXDL-7-01] [Training and Prediction stage](https://youtu.be/jwyQxTFpHzk)
+* [MXDL-7-02] [Custom Batch Normalization layer using Keras](https://youtu.be/_qeKY0I32nk)
+
+### 8. Weights Initialization
+* [MXDL-8-01] [Observation of the outputs of a hidden layer](https://youtu.be/PMpO7HN4wNI)
+* [MXDL-8-02] [Xavier Glorot Initializer](https://youtu.be/l-SDaWNWhYQ)
+* [MXDL-8-03] [Kaiming He Initializer]
+
+
