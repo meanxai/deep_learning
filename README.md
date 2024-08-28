@@ -37,8 +37,10 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-7-02] [Custom Batch Normalization layer using Keras](https://youtu.be/_qeKY0I32nk)
 
 ### 8. Weights Initialization
-* [MXDL-8-01] [Observation of the outputs of a hidden layer](https://youtu.be/PMpO7HN4wNI)
-* [MXDL-8-02] [Xavier Glorot Initializer](https://youtu.be/l-SDaWNWhYQ)
-* [MXDL-8-03] [Kaiming He Initializer]
+* [MXDL-8-01] [Observation of the outputs of a hidden layer](https://youtu.be/9I6CsvMqUPA)
+* [MXDL-8-02] [Xavier Glorot Initializer](https://youtu.be/M8jZWt0bI14)
+* [MXDL-8-03] [Kaiming He Initializer](https://youtu.be/75CcapvfsLM)
 
+### 9. Highway Networks
+* [MXDL-9-01] [Highway Networks and Residual connections](https://youtu.be/10x2lZ2lEg4)
 
