@@ -39,7 +39,7 @@ def HighWay(x, n_layers):
               kernel_initializer='glorot_normal',
               bias_initializer = 'zeros',
               activation = 'sigmoid')(x)                          
-    x = H * T + x * (1. - T)
+        x = H * T + x * (1. - T)
     return x
 
 # Create an ANN model with Highway networks
