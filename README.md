@@ -44,3 +44,12 @@ These codes are used in the deep learning online course provided by www.youtube.
 ### 9. Highway Networks
 * [MXDL-9-01] Highway Networks and Residual connections
 
+### 10. Recurrent Neural Networks
+* [MXDL-10-01] Basics of RNNs and their data structures
+* [MXDL-10-02] Backpropagation Through Time (BPTT)
+* [MXDL-10-03] Build RNN models for time series forecasting
+* [MXDL-10-04] Long Short-Term Memory (LSTM)
+* [MXDL-10-05] Build LSTM models for time series forecasting
+* [MXDL-10-06] Peephole LSTM models and time series forecasting
+* [MXDL-10-07] Gated Recurrent Unit (GRU)
+* [MXDL-10-08] Multi-layer and Bi-directional RNN
