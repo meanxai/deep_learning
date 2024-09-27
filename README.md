@@ -53,3 +53,7 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-10-06] Peephole LSTM models and time series forecasting
 * [MXDL-10-07] Gated Recurrent Unit (GRU)
 * [MXDL-10-08] Multi-layer and Bi-directional RNN
+
+### 11. Attention Networks
+* [MXDL-11-01] Sequence-to-Sequence Networks (Seq2Seq)
+* [MXDL-11-02] Implementing a Seq2Seq model for time series forecasting
