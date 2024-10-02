@@ -57,3 +57,4 @@ These codes are used in the deep learning online course provided by www.youtube.
 ### 11. Attention Networks
 * [MXDL-11-01] Sequence-to-Sequence Networks (Seq2Seq)
 * [MXDL-11-02] Implementing a Seq2Seq model for time series forecasting
+* [MXDL-11-03] Seq2Seq-Attention model for time series predicition
