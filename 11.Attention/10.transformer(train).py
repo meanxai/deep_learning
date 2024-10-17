@@ -59,7 +59,7 @@ hist = model.fit([xi_enc, xi_dec], xp_dec,
                  batch_size = 200)
 
 # Save the trained model
-# model.save("models/transformer.h5")
+model.save("models/transformer.h5")
 
 # Visually see the loss history
 plt.plot(hist.history['loss'], label='Train loss')
