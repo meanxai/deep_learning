@@ -58,3 +58,6 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-11-01] Sequence-to-Sequence Networks (Seq2Seq)
 * [MXDL-11-02] Implementing a Seq2Seq model for time series forecasting
 * [MXDL-11-03] Seq2Seq-Attention model for time series predicition
+* [MXDL-11-04] Seq2Seq-Attention model using input-feeding method
+* [MXDL-11-05] Transformer model
+* [MXDL-11-06] Time series forecasting using a Transformer model
