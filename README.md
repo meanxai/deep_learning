@@ -61,3 +61,14 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-11-04] Seq2Seq-Attention model using input-feeding method
 * [MXDL-11-05] Transformer model
 * [MXDL-11-06] Time series forecasting using a Transformer model
+* [MXDL-11-07] Stock price prediction using a Transformer model
+
+### 12. Convolutional Neural Network
+* [MXDL-12-01] The basics of CNN
+* [MXDL-12-02] 1D convolutional layer and 1D pooling layer
+* [MXDL-12-03] 2D convolutional layer and 2D pooling layer
+* [MXDL-12-04] Residual Neural Network
+* [MXDL-12-05] 3D Convolution
+* [MXDL-12-06] Convolutional LSTM
+
+
