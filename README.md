@@ -71,4 +71,10 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-12-05] 3D Convolution
 * [MXDL-12-06] Convolutional LSTM
 
-
+### 13. Autoencoder
+* [MXDL-13-01] Dimensionality reduction
+* [MXDL-13-02] Denoising, Deblurring Autoencoder
+* [MXDL-13-03] Sparse autoencoder
+* [MXDL-13-04] Anomaly Detection
+* [MXDL-13-05] Variational Autoencoder (VAE)
+* [MXDL-13-06] Implementation of a Variational Autoencoder
