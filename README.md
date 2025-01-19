@@ -78,3 +78,8 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-13-04] Anomaly Detection
 * [MXDL-13-05] Variational Autoencoder (VAE)
 * [MXDL-13-06] Implementation of a Variational Autoencoder
+
+### 14. Generative Adversarial Networks (GAN)
+* [MXDL-14-01] The architecture of the standard GAN
+* [MXDL-14-02] Implementation of a standard GAN model
+
