@@ -124,27 +124,27 @@ def plot_distribution():
     plt.show()
     
 # Fit the GAN model to the real data
-# hist = model.fit(x_real, epochs=300, batch_size=100, verbose=2)
+hist = model.fit(x_real, epochs=300, batch_size=100, verbose=2)
 
-# # Loss history
-# plt.plot(hist.history['D_loss'], c='red'); plt.show()
-# plt.plot(hist.history['G_loss'], c='blue'); plt.show()
+# Loss history
+plt.plot(hist.history['D_loss'], c='red'); plt.show()
+plt.plot(hist.history['G_loss'], c='blue'); plt.show()
 
-# # Plot the distribution of x and G(z)
-# plot_distribution()
+# Plot the distribution of x and G(z)
+plot_distribution()
 
-# # Verify that both D*(x) and D*(G(z)) converge to 0.5.
-# z = np.random.uniform(-1.0, 1.0, (x_real.shape[0], nG_input))
-# x_fake = model.G(z).numpy()
-# Dx = model.D(x_real).numpy()
-# DGz = model.D(x_fake).numpy()
-# print("D*(x):"); print(Dx)
-# print()
-# print("D*(G(z)):");print(DGz)
+# Verify that both D*(x) and D*(G(z)) converge to 0.5.
+z = np.random.uniform(-1.0, 1.0, (x_real.shape[0], nG_input))
+x_fake = model.G(z).numpy()
+Dx = model.D(x_real).numpy()
+DGz = model.D(x_fake).numpy()
+print("D*(x):"); print(Dx)
+print()
+print("D*(G(z)):");print(DGz)
 
 # To observe how the G(z) changes as training progresses, 
 # run the code below.
-for i in range(5):
-    model.fit(x_real, epochs=60, batch_size=100, verbose=0)
-    print('\nepochs =', 60 + i * 60, end='')
-    plot_distribution()
+# for i in range(5):
+#     model.fit(x_real, epochs=60, batch_size=100, verbose=0)
+#     print('\nepochs =', 60 + i * 60, end='')
+#     plot_distribution()
