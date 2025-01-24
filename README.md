@@ -82,4 +82,5 @@ These codes are used in the deep learning online course provided by www.youtube.
 ### 14. Generative Adversarial Networks (GAN)
 * [MXDL-14-01] The architecture of the standard GAN
 * [MXDL-14-02] Implementation of a standard GAN model
+* [MXDL-14-03] Deep Convolutional GAN (DCGAN)
 
