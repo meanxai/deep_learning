@@ -8,7 +8,7 @@
 #
 # A detailed description of this code can be found at
 # https://youtu.be/k7cWq50CepY
-#
+# 
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.layers import Input, Dense, Conv2D, Conv2DTranspose, Reshape
