@@ -83,4 +83,12 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-14-01] The architecture of the standard GAN
 * [MXDL-14-02] Implementation of a standard GAN model
 * [MXDL-14-03] Deep Convolutional GAN (DCGAN)
+* [MXDL-14-04] Unrolled GAN
+* [MXDL-14-05] Implementation of unrolled GAN models
+* [MXDL-14-06] Least Squares GAN (LSGAN)
+* [MXDL-14-07] Implementation of Least Squares GANs (LSGANs)
+* [MXDL-14-08] Wasserstein GAN (1)
+* [MXDL-14-09] Wasserstein GAN (2)
+* [MXDL-14-10] Wasserstein GAN with gradient penalty (WGAN-GP)
+* [MXDL-14-11] Dual Discriminator Generative Adversarial Networks (D2GAN)
 
