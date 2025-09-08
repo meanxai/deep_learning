@@ -92,3 +92,16 @@ These codes are used in the deep learning online course provided by www.youtube.
 * [MXDL-14-10] Wasserstein GAN with gradient penalty (WGAN-GP)
 * [MXDL-14-11] Dual Discriminator Generative Adversarial Networks (D2GAN)
 
+### 15. Non-backpropagation learning
+* [MXDL-15-01] Hebbian learning (1)
+* [MXDL-15-02] Hebbian learning (2) - Weight decay
+* [MXDL-15-03] Hopfield Network (1) - Storing and recalling information
+* [MXDL-15-04] Hopfield Network (2) - Ising model and Energy function
+* [MXDL-15-05] Hopfield Network (3) - Storage capacity and Pseudo-inverse learning rule
+* [MXDL-15-06] Hopfield Network (4) - Storkey learning rule for a Hopfield network
+* [MXDL-15-07] Boltzmann Machine
+* [MXDL-15-08] Restricted Boltzmann machines (RBMs) (1)
+* [MXDL-15-09] Restricted Boltzmann machines (RBMs) (2)
+* [MXDL-15-10] Contrastive Hebbian Learning (CHL)
+* [MXDL-15-11] Competitive Learning Model
+* [MXDL-15-12] Self-Organizing Maps (SOMs)
